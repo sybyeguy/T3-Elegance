@@ -1,0 +1,9 @@
+{
+  "name": "@fullstack-ts-app/common",
+  "version": "1.0.0",
+  "main": "src/types.ts",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Common package does not run'"
+  }
+}

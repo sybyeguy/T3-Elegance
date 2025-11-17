@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-ts-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "pnpm --filter ./packages/* --parallel start",
+    "build": "pnpm --filter ./packages/* --parallel build",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.25",
+    "typescript": "^5.9.3"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
